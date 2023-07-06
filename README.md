@@ -7,24 +7,21 @@
 
 - Hi I'm `P-DING`.
 
-- Studying about iOS & Swift
+- Studying about `iOS & Swift`
 
--  Wanna be iOS developer
-
-
+-  Wanna be iOS `developer`
 
 <br/>
-<div align=center>
-<h3> 자기소개글</h3>
-</div>
-<br/>
+
+
+
 
 ---
 
 ## STACKS
 
 
-<br>
+<br/>
 
 ---
 
