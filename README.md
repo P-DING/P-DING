@@ -1,19 +1,16 @@
-## Welcome to Yangkong's Github
+## Welcome to P-Ding's Github
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-Yangkong%2Fhit-counter&count_bg=%23F7DF76&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![blog](https://img.shields.io/badge/Yangkong's_Blog-ffd166?style=flat&logo=tistory&logoColor=white)](https://dev-yangkong.tistory.com/)
-[![instagram](https://img.shields.io/badge/Yangkong's_instagram-06d6a0?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dev_yangkong/)
-[![mail](https://img.shields.io/badge/dev.yangkong@gmail.com-118ab2?style=flat&logo=Gmail&logoColor=white)](mailto:dev.yangkong@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FP-Ding%2Fhit-counter&count_bg=%23E9E9E9&title_bg=%23AAAAAA&icon=apple.svg&icon_color=%23FFFFFF&title=HiT&edge_flat=false)](https://hits.seeyoufarm.com)            
+
 
 <br/>
 
-- 👋🏻 Hi there I'm `Yangkong`.
+- 👋🏻 Hi there I'm `P-Ding`.
 
-- 👩🏻‍💻 I'm a passionate learner on the path to becoming a Full-Stack Web Developer in <img src="./01_img/south-korea.png" width=15px height=15px>`South Korea` or the <img src="./01_img/USA.png" width=15px height=15px>`U.S.A.`
+- 👩🏻‍💻 
 
-- 📖 Currently, I'm enrolled in the OZ Coding School `Bootcamp course`.
-
-- 👩🏻‍🎓 I hold a degree in `International Trade` from Namseoul University.
+- 📖 
+- 👩🏻‍🎓 
 
 <br/>
 <div align=center>
