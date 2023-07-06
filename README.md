@@ -19,7 +19,12 @@
 ---
 
 ## STACKS
+<br/>
+Studying 
+<br/>
 
+<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
 
 <br/>
 
@@ -31,8 +36,8 @@
 
 <div align=center>
   
-[![P-DING's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-DING&theme=gruvbox_light&card_width=280&align=left)](https://github.com/anuraghazra/github-readme-stats)
-[![P-DING's GitHub Streak](https://streak-stats.demolab.com/?user=P-DING&theme=gruvbox-light&card_width=380&align=right)](https://git.io/streak-stats)
+[![P-DING's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-DING&theme=dark&card_width=280&align=left)](https://github.com/anuraghazra/github-readme-stats)
+[![P-DING's GitHub Streak](https://streak-stats.demolab.com/?user=P-DING&theme=dark&card_width=380&align=right)](https://git.io/streak-stats)
 
 </div>
 <br/><br/>
