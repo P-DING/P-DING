@@ -23,8 +23,10 @@
 Studying 
 <br/>
 
-<img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
-<img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+<div>
+  <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=ios&logoColor=white">
+  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white">
+</div>
 
 <br/>
 
