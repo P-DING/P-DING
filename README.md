@@ -9,7 +9,7 @@
 
 - Studying about `iOS & Swift`
 
--  Wanna be iOS `developer`
+-  Wanna be `iOS developer`
 
 <br/>
 
